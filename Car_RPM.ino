@@ -1,4 +1,4 @@
-// Developer: nullptr
+// Developer: Jacob Psutka
 // Purpose:   display engine RPM
 
 // Led class
